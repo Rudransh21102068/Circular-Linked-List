@@ -1,0 +1,9 @@
+Q2. What are the practical applications of a circular linked list?
+A2. 1. Maintaining a directory of names.
+    2. Performing arithmetic operations on long integers.
+    3. Keeping track of which player’s turn it is in a multiplayer board game
+       or a normal game.
+    4. Audio or video streaming on the device (playlist of song or video starts
+       again from the first song after the last song is finished playing.
+    5. Undo function in photoshop or word or any photo/document software
+    6. The forward and back button in the browser of the PC.
