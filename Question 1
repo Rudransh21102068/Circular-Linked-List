@@ -1,0 +1,14 @@
+For traversing through the linked list we stop the traversal when we
+reach the first node again. Hence the condition imposed is “temp ==
+self.head” .If the condition is True the loop breaks.
+
+
+
+def printlist(self):
+    temp = self.head
+    if self.head is not None:
+        while(True):
+           print(temp.data, end=" " )
+           temp = temp.next
+           if (temp == self.head):
+               break
